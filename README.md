@@ -4,12 +4,12 @@ In this assignment, I am create a joint savings solidity smart contract.
 
 Deposit Proof of ETH
 
-![1ETH](sent1ETH.png)
+![1ETH](./Execution%20Results/sent1ETH.png)
 
-![10ETH](sent10ETH.png)
+![10ETH](./Execution%20Results/sent10ETH.png)
 
 
-![5ETH](sent5ETH.png)
+![5ETH](./Execution%20Results/sent5ETH.png)
 
 
 Withdraw Proof of ETH
